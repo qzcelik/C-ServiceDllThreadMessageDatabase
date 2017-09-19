@@ -1,0 +1,5 @@
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\kisiVeriDll\kisiVeriDll\bin\Debug\kisiVeriDll.dll
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\kisiVeriDll\kisiVeriDll\bin\Debug\kisiVeriDll.pdb
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\kisiVeriDll\kisiVeriDll\obj\Debug\kisiVeriDll.dll
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\kisiVeriDll\kisiVeriDll\obj\Debug\kisiVeriDll.pdb
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\kisiVeriDll\kisiVeriDll\obj\Debug\kisiVeriDll.csprojResolveAssemblyReference.cache

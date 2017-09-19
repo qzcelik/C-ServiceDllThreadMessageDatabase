@@ -1,0 +1,260 @@
+﻿'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+System.ServiceProcess.ServiceProcessInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.exe
+   logfile = C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\servis\ibrahimServis\ibrahimServis\bin\Debug\ibrahimServis.InstallLog

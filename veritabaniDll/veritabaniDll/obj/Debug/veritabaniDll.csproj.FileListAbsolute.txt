@@ -1,0 +1,5 @@
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\veritabaniDll\veritabaniDll\bin\Debug\veritabaniDll.dll
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\veritabaniDll\veritabaniDll\bin\Debug\veritabaniDll.pdb
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\veritabaniDll\veritabaniDll\obj\Debug\veritabaniDll.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\veritabaniDll\veritabaniDll\obj\Debug\veritabaniDll.dll
+C:\Users\Acer\Desktop\ileriProgramlamaFinalProje\veritabaniDll\veritabaniDll\obj\Debug\veritabaniDll.pdb
